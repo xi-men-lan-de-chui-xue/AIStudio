@@ -1,0 +1,7 @@
+{
+  "name": "AI Workspace",
+  "description": "ai化学实验室",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
